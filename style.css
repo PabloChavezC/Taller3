@@ -1,0 +1,75 @@
+.container-fluid{
+    background-color: rgb(100, 100, 100);
+
+}
+
+.container-contacto{
+    background-color: rgb(100, 100, 100);
+    margin: 1%;
+    border-radius: 10px;
+    padding: 1%;
+}
+
+.jumbotron{
+    background-image: url(images/banner1.jpg);
+    background-size: cover;
+    width: 100% ;
+    text-shadow: 1px 1.5px rgb(214, 214, 214);
+    padding-top: 10%;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 3px;
+    -webkit-box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+    box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+    
+}
+
+
+.slide{ 
+    margin: 1%;
+    border-radius: 10px;
+    padding: 1%;
+    
+    -webkit-box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+    box-shadow: -5px 24px 32px 0px rgba(0,0,0,0.75);
+}
+.btn-danger {
+    color: #21252900;
+    background-color: #40474e7c;
+    border-color: #343a40;
+    text-shadow: 1px 1px rgb(214, 214, 214);
+}
+
+.my-4{
+    color: #21252900;
+    background-color: #40474e7c;
+    border-color: #343a40;
+}
+
+.badge-light{
+    color: #21252900;
+    background-color: #40474e7c;
+    border-color: #343a40;
+
+}
+
+.display-6{
+    color: #21252900;
+    background-color: #40474e7c;
+    border-color: #343a40; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .formulario-contacto{
+      color: white;
+  }
+
+  
